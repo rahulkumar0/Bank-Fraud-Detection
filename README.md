@@ -1,2 +1,3 @@
 # Bank-Fraud-Detection
-this model is to predict the chance that a customer can fraud.
+this model is to predict the chance of a customer can exit from bank using artificial neural network.
+
